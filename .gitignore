@@ -1,0 +1,8 @@
+# Dados e banco local: não versionar (a origem está em dados/README.md)
+dados/*.csv
+dados/*.zip
+*.db
+*.sqlite
+.DS_Store
+# Referência fornecida pelos professores (adaptada): uso local, não publicar
+sql/referencia/
